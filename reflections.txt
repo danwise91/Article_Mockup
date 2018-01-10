@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+* What new skills have you learned?
+ 
+So far the new skills I have learned are how to better organize my HTML code and how to use the "tree" structure to outline my parent/child relationships. 
+* What has been easy?
+  
+Following along with each lesson.
+* What has been difficult?
+  
+Sometimes understanding the directions of a quiz.
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+I have used my problem solving strategy of thinking of the best words or phrases to Google in order to find information on the problem I have having. 
